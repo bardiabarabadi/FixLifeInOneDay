@@ -215,9 +215,9 @@ Be specific and ruthless. Half-measures produce half-results. True commitment me
 **I commit to protecting:**
 
 
-**Starting date:** [DATE]
+**Starting date:** [Today's Date - e.g., February 10, 2026]
 
-**Signature:**
+**Signature:** [Your name or initials]
 
 ---
 
