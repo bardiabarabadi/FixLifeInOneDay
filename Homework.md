@@ -31,7 +31,9 @@ Not deep suffering, but what you tolerate.
 **Answer:**
 ```
 
-[Write here]
+My main dissatisfaction comes from not having financial freedome. I want to be able to, not necessearily do, stop working anytime I like.
+
+Another one comes from wanting to work for myself, I like my job, but I would rather spend the time on something I am a big part of. 
 
 ```
 
@@ -45,9 +47,9 @@ Write the **three complaints** you’ve voiced most often in the past year.
 **Answers:**
 ```
 
-1.
-2.
-3.
+1. Finishing up the multitude of projects and startups I started over the years
+2. Spending time on my hobby projects more
+3. Take more justified risk, both in investing and in finishing up projects
 
 ```
 
@@ -60,9 +62,9 @@ What would someone who watched your **behavior** (not your words) conclude that 
 **Answers:**
 ```
 
-Complaint 1 → Actual goal:
-Complaint 2 → Actual goal:
-Complaint 3 → Actual goal:
+Complaint 1 → Actual goal: Not to be scared of finishing, publishing and failing
+Complaint 2 → Actual goal: Have the motivation to go sit in my office and work
+Complaint 3 → Actual goal: Don't be scared when everyone else is scared
 
 ```
 
@@ -75,7 +77,7 @@ What truth about your current life would be unbearable to admit to someone you d
 **Answer:**
 ```
 
-[Write here]
+That I don't know if I am on the right path. On paper everything looks good. I have a great job, make more than enough, but I don't feel accomplished. I am not sure if pursuing what I am pursuing is actually the right place to put my effort. 
 
 ```
 
@@ -100,7 +102,13 @@ If absolutely nothing changes for the next five years, describe an **average Tue
 **Answer:**
 ```
 
-[Write here in detail]
+I wake up at 7AM in my bedroom at a moderate two bedroom apartment in Burnaby, feeling that I need more sleep. Watch my phone for half an hour, get up and eat breakfast with my wife. Take the half an hour or so drive to work as a middle manager. Work unitl 5PM, get back home. Maybe do a light workout, watch a few TV show episodes, do chores and sleep still feeling like I am missing something.
+
+The thought that would be in my mind all day would be: "where did I go wrong", "how can I make more to not think of money when buying ...", "how can I retire and retire my wife as soon as possible"
+
+My wife is living with me, also working a 9-5. We meet up with friends on weekends, but otherwise too "busy" to do much else during the week.
+
+
 
 ```
 
@@ -118,7 +126,13 @@ Now do the same for **ten years**.
 **Answer:**
 ```
 
-[Write here]
+I missed making a big mark on the word. I missed building something. I missed using my time and potential. 
+
+My mind has slowed down, everything I used to be able to do and learn quickly now takes time. I missed the ability to risk.
+
+Probably no one would give up on me, except for myself.
+
+People would say that he is successful, but not happy. Living a modest-to-high life.
 
 ```
 
@@ -135,7 +149,9 @@ You never broke the pattern.
 **Answer:**
 ```
 
-[Write here]
+The cost was never enjoying what I had because I knew I could have more. Never built something that would serve humanity for years after I am gone. 
+
+I never let myelf feel full, accomplished, winning. Never let my self become who I could have become, a founder, an owner, a builder.
 
 ```
 
@@ -151,7 +167,7 @@ Someone 5, 10, or 20 years ahead on the same trajectory.
 **Answer:**
 ```
 
-[Write here]
+My parents, they basically walked the same path that I am walking now. They had to, and still have to, work all their lives. I feel sad when I see them and I would count my life a waste if I become them.
 
 ```
 
@@ -167,8 +183,8 @@ What identity would you have to give up to actually change?
 **Answer:**
 ```
 
-Identity:
-Social cost:
+Identity: Pessimist. Fearing that I would fail in my projects or hurt my family or other people.
+Social cost: Probably mostly my wife, will need to spend less time with her and do more of I want vs. what she asks.
 
 ```
 
@@ -182,7 +198,7 @@ The one that makes you sound weak, scared, or lazy rather than reasonable.
 **Answer:**
 ```
 
-[Write here]
+In one word, fear. Fear of failing, fear of hurting my wife. Fear of wasting my time.
 
 ```
 
@@ -198,8 +214,8 @@ If your current behavior is a form of self-protection:
 **Answer:**
 ```
 
-Protecting:
-Cost:
+Protecting: My family's financial life, my wife's desires
+Cost: My family's future financial freedom, my wife's desires that she is probably not even thining about (early retirement)
 
 ```
 
@@ -221,7 +237,12 @@ If you could snap your fingers and be living a different life in **three years**
 **Answer:**
 ```
 
-[Write here]
+I would wake up at 8AM, with no alarm. I strech and check my emails, new payments, complaints, requests. I would eat breakfast, do a light workout, and go behind my desk. On it I respond to emails, talk to my team and get updates on what needs to be done today. At some point in the day I would drive to the manufacturing site, make sure everything is in place, talk to people, and head back home for a call with an investor/client. 
+
+My wife is not going to work anymore, she goes to workout classes, shopping and out with friends. I join her in the evening, maybe watch a movie or two and dine. 
+
+I feel accomplished all day. My biggest concern would be my work, my company, and how I can make it even better. I sleep knowing that I was the best person I could have been all day.
+
 
 ```
 
@@ -237,7 +258,7 @@ Write the identity statement:
 **Answer:**
 ```
 
-I am the type of person who...
+I am the type of person who get things done, finishes them, and is proud of what he made.
 
 ```
 
@@ -250,7 +271,7 @@ What is **one thing you would do this week** if you were already that person?
 **Answer:**
 ```
 
-[Write here]
+Start something that I am avoiding to start for a long time or finish up a prototype for something I have waving around for so long.
 
 ```
 
