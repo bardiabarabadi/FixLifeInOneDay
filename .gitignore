@@ -1,0 +1,20 @@
+# Personal worksheet completions
+my-worksheets/
+completed-worksheets/
+personal-notes/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+.~*
